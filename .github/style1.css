@@ -1,0 +1,64 @@
+label{
+    width: 140px;
+    margin: 0.4cm;
+    display:inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    color:rgb(193, 28, 121)
+
+}
+form{
+    margin: 100px;
+    background: #fff;
+    width: 700px;
+    background-color: rgb(201, 177, 78);
+    justify-content: center;
+}
+body{
+  margin: 0;
+  height: 10px;
+  justify-content: center;  /* Horizontal center */
+  align-items: center;
+}
+*{
+    font-size: 20px;
+}
+input{
+    padding: 6px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+input[type='radio']{
+    height: 16px;
+    width: 16px;
+}
+#btn{
+    width:100px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(97, 97, 172);
+
+}
+.navbar{
+    background-color: #c44e9a;font-family: calibri;padding-right: 15px; padding-left: 15px;
+
+}
+.navdiv{
+    display: flex;align-items: center;justify-content: space-between;
+}
+.logo a{
+    font-size: 35px; font-weight: bold;color:rgb(32, 0, 0);
+}
+li{
+    display: inline-block;
+}
+li a{
+    color: white; font-size: 18px;font-weight: bold;margin-right: 25;
+}
+h2{
+    font-size: 40px;
+}
+h1{
+    font-size: 50px;
+}
